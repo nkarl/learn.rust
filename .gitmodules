@@ -1,3 +1,3 @@
-[submodule "learn"]
-	path = learn
-	url = https://github.com/nkarl/learn.rust.documented
+[submodule "basics"]
+	path = basics
+	url = https://github.com/nkarl/learn.rust.basics
